@@ -4,8 +4,7 @@
   "description": "AgriFarm Agriculture product shop Management System",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon serve.js"
+    "start": "node serve.js"
   },
   "author": "Ravindu",
   "license": "ISC",
